@@ -1,0 +1,53 @@
+WINAND VICTOR – DRUCKDATEI FÜR FLYERALARM
+
+Produkt: Magazin mit Rückendrahtheftung, DIN A5 hoch, links geheftet.
+Umfang für Bestellung: 28 Innenseiten + 4 Umschlagseiten = 32 Seiten.
+Auflage laut Impressum: 50 Exemplare.
+Datei: Winand_Victor_Druckdatei_Flyeralarm_32_Seiten.pdf
+Eine PDF mit 32 Einzelseiten in Lesereihenfolge, einschließlich Umschlag.
+Nicht ausschießen; keine Doppelseiten-PDF für den Druck hochladen.
+
+Datenformat: 154 × 216 mm.
+Endformat / TrimBox: 148 × 210 mm, mittig.
+Beschnitt: 3 mm umlaufend; randfüllende Motive in den Beschnitt verlängert.
+Keine Schnittmarken.
+Text-Sicherheitsabstand: mindestens 5 mm zum Endformatrand.
+PDF/X-4, PDF 1.6, mit eingebettetem Ausgabeprofil ISO Coated v2 300% (ECI), FOGRA39.
+Bildfarbraum: CMYK. Fließtext und Legenden als K-Schwarz/Grau.
+DejaVu Sans und DejaVu Sans Bold eingebettet.
+Keine Verschlüsselung, Formulare oder JavaScript.
+Alle Seiten geöffnet und gerendert; Texte vor/nach Export verglichen.
+Prüfung mit PyMuPDF, pdfinfo und pdffonts; keine unabhängige ISO-PDF/X-Zertifizierung.
+
+BILDQUALITÄT
+Die vom Auftraggeber freigegebenen KI-retuschierten Ansichten werden verwendet.
+Einzelne Details können von den Originalwerken abweichen.
+Nicht alle Bilder erreichen die von Flyeralarm empfohlenen etwa 300 dpi.
+Die Auflösung wurde nicht künstlich hochgerechnet. Die schwächste Stelle ist
+der groß vergrößerte Detailausschnitt auf Seite 31 mit etwa 105 dpi.
+Weitere unter 300 dpi liegende Abbildungen (PDF-Seite: effektive Mindestauflösung):
+2: ca. 235 dpi
+6: ca. 232 dpi
+7: ca. 251 dpi
+8: ca. 218 dpi
+9: ca. 241 dpi
+12: ca. 249 dpi
+13: ca. 197 dpi
+14: ca. 208 dpi
+19: ca. 206 dpi
+23: ca. 184 dpi
+24: ca. 205 dpi
+25: ca. 200 dpi
+31: ca. 105 dpi
+
+Die finale Annahme und Druckfreigabe erfolgt im Flyeralarm-Datencheck.
+Bei der Bestellung muss das gewählte Produkt zum bereitgestellten Datenblatt
+mag_klahe_din_hoch_gg passen. Papier und Grammatur sind in dieser Sitzung
+nicht festgelegt und im Shop zu wählen.
+
+Technische Quellen:
+Vom Auftraggeber bereitgestelltes Flyeralarm-Datenblatt „Magazine mit Rückendrahtheftung“.
+https://www.flyeralarm.com/blog/de/druckdaten-erstellen-leichtgemacht-kompakte-checkliste/
+
+SHA-256 der Druck-PDF:
+477d3dc862a671568655f0b0a862adaeac0353d23a4375b1c8dc8ee2f239b501
